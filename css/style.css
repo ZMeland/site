@@ -19,7 +19,10 @@ h1 {padding:39px 0 0 9px;float:left}
 h2 {font-size:33px;color:#fff;font-weight:700;line-height:1.2em;padding:30px 0 11px 0;letter-spacing:-1px}
 h3 {font-size:27px;color:#fff;font-weight:700;line-height:1.2em;padding:33px 0 17px 0;letter-spacing:-1px}
 h3.color1 {padding:0 0 7px 0}
-p {padding-bottom:24px}
+p {
+	padding-bottom: 24px;
+	font-size: 24px;
+}
 /* ============================= header ====================== */
 header {height:179px}
 #page1 header {height:662px}
@@ -55,7 +58,10 @@ header {height:179px}
 .marg_right1 {margin-right:40px}
 .marg_right2 {margin-right:20px}
 .no_pad { padding-bottom:0}
-.color1 {color:#5f870e}
+.color1 {
+	color: #5f870e;
+	font-size: 24px;
+}
 .color2 {color:#fff}
 .button1 {display:inline-block;font-size:22px;color:#fff;padding:0 18px;background:#5f870e;height:45px;line-height:44px;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;letter-spacing:-1px;margin-top:-4px}
 .button1:hover {background:#fff;color:#000}
